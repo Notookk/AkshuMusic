@@ -92,11 +92,10 @@ TELEGRAM_AUDIO_URL = "https://files.catbox.moe/gqldho.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/gqldho.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/hm8yno.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/b1zcso.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/hm8yno.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/40azop.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/40azop.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/40azop.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/40azop.jpg"
-
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/hm8yno.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
